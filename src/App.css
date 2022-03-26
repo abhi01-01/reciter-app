@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    background-color: rgb(228,228,228);
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar{
+    width: 3px;
+}
+
+::-webkit-scrollbar-track{
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb{
+    background: #888 ;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background: crimson;
+}
