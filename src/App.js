@@ -7,7 +7,7 @@ import wordsToNumbers from 'words-to-numbers';
 import {Typography} from '@mui/material';
 
 
-const alanKey = '7a6392ce55fb773102310c93d06aa8172e956eca572e1d8b807a3e2338fdd0dc/stage' ;
+const alanKey = '<Enter Your Alan Key>' ;
 function App() {
 
   const [newsArticles , setNewsArticles] = useState([]);
